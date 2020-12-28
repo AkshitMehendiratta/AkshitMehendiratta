@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshit Mehendiratta</h1>
 
+<h3 align="center">I am an enthusiastic person at heart and have an inquisitive thirst for learning. I have a belief to help and serve the community at a global level</h3>
 
 - 🌱 I’m currently learning **different web technologies**
 
