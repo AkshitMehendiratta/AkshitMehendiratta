@@ -2,7 +2,7 @@
 
 <h3 align="center">I am an enthusiastic person at heart and have an inquisitive thirst for learning. I have a belief to help and serve the community at a global level.</h3>
 
-- 📫 How to reach me **akshit_mehendiratta@yahoo.com**
+- 📫 How to reach me **amehendi@uwaterloo.ca*
 
 
 <h3 align="left">Languages and Tools:</h3>
